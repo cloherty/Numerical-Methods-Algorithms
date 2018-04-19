@@ -49,4 +49,4 @@ Each of these methods have a different application to a wide variety of engineer
 - I-magnitude, or 'integral' of the function given by the data set
 
 # Summary
-- Each of these algorithms uses different numerical methods, or combinations thereof, to meet a certain goaldetermined by the user. These codes were written in MATLAB and use basic if/for/while statements in multiple applications to reach their purpose.
+- Each of these algorithms uses different numerical methods, or combinations thereof, to meet a certain goal determined by the user. These codes were written in MATLAB and use basic if/for/while statements in multiple applications to reach their purpose.
