@@ -13,3 +13,7 @@
 - U-upper triangular matrix
 
 - P-pivot matrix
+
+#### Limitations
+- This particular code is only written to decompose 3x3 and 2x2 matrices. Anything of a higher magnitude will be responded with an error. More complex systems can be solved with the 'lu' function in MATLAB.
+
