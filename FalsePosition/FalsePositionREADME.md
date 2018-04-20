@@ -21,3 +21,6 @@
 - ea-approximate relative error
 
 - iter-number of iterations performed
+
+#### Limitations
+- Similar to the bracketing method, the false position algorithm requires an objectively larger amount of computation time and power. However, it is much less susceptible to inaccurate results like than open root finding methods are.
