@@ -1,6 +1,6 @@
 # Numerical-Methods-Algorithms
 
-- Often times in real world problem solving analytical solutions do not exist. Therefore, certain techniques and methods must be derived to deliver accurate analysis from non-symmetrical, real situations. These techniques are often used to approximate the solution to within a finite amount of error, such that these problems can be solved. Some of these techniques include
+- In real world problem solving analytical solutions do not exist. Therefore, certain techniques and methods must be derived to deliver accurate analysis from non-symmetrical, real situations. These techniques are often used to approximate the solution to within a finite amount of error, such that these problems can be solved. Some of these techniques include
 
 1. Simpson's Rule
 2. LU Decomposition
