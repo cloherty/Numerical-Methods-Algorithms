@@ -13,3 +13,6 @@
 
 - I-magnitude, or 'integral' of the function given by the data set
 
+#### Limitations 
+- This algorithm uses both the Simpson's 1/3 Rule and Trapezoidal Rule to determine the magnitude of a function given by a series of data points. However, depending on the application, there are other more accurate methods to accomplish this task. The Simpson's 3/8 rule, or Gauss Quadrature are both more accurate means to defining this magnitude.
+
