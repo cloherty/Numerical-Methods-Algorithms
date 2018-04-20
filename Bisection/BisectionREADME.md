@@ -24,3 +24,6 @@
 - ea-approximate relative error
 
 - iter-number of iterations performed
+
+#### Limitations
+- While the bisection method will deliver accurate results, it does expend slightly more computational power and time than its 'open method' counterparts. However, if consistency is what is required, bisection will not let you down.
